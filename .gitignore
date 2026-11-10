@@ -1,0 +1,10 @@
+# Private Excel workbooks
+Excel_Sales_Analysis.xlsx
+Excel_Sales_Analysis_Backup.xlsx
+
+# Private source data
+Source_Data/
+
+# Temporary Excel files
+~$*.xlsx
+*.tmp
